@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "cssTheme": "Sanctum",
+  "enabledCssSnippets": [
+    "MCL Multi Column",
+    "MCL Wide Views"
+  ],
+  "showViewHeader": false,
+  "theme": "obsidian"
+}
